@@ -22,8 +22,15 @@ Landing page do aplicativo **Banco Brasil: Quiz & Simulados** para concurso de A
 
 ## Pendências
 
-- Trocar `img/banner*.jpg` e `img/img0*.jpg` pelos prints oficiais do app do Banco do Brasil
 - Confirmar preços dos planos na Play Console antes do release
+
+## Imagens
+
+- `img/banner.jpg` (1024×500, desktop) e `img/banner-tablet.jpg` (1024×500) — versões do banner
+  `detalhes_app/landingpage/img/banner_1024x500.jpeg`; `img/banner-mobile.jpg` (768×375) reduzida
+  para smartphones. O CSS limita o banner a 900px de largura.
+- `img/img01.jpg` a `img/img08.jpg` (682×1440) — prints de
+  `detalhes_app/tela_app_bb_phone/Screenshot_*.png` convertidos PNG → JPEG.
 
 ## Tecnologias
 
