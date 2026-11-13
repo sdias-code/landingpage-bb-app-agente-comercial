@@ -1,6 +1,6 @@
-# Correios Atendente Simulados — Landing Page
+# Banco Brasil Quiz & Simulados — Landing Page
 
-Landing page do aplicativo **Correios Atendente Simulados** para concurso de Atendente Comercial dos Correios (nível médio).
+Landing page do aplicativo **Banco Brasil: Quiz & Simulados** para concurso de Agente Comercial do Banco do Brasil (nível médio).
 
 ## Seções
 
@@ -15,9 +15,15 @@ Landing page do aplicativo **Correios Atendente Simulados** para concurso de Ate
 
 ## App
 
-- Pacote: `br.com.sdiascode.correios`
-- Site: https://correios.sdiascode.com.br/
-- Legal: https://legal-correios.sdiascode.com.br/
+- Pacote: `br.com.sdiascode.bancobrasil`
+- Site: https://bb.sdiascode.com.br/
+- Legal: https://legal-bb.sdiascode.com.br/
+- Grade de disciplinas (fonte da verdade): `app_banco_brasil/my_app_banco_brasil/lib/core/conteudo_app.dart`
+
+## Pendências
+
+- Trocar `img/banner*.jpg` e `img/img0*.jpg` pelos prints oficiais do app do Banco do Brasil
+- Confirmar preços dos planos na Play Console antes do release
 
 ## Tecnologias
 
